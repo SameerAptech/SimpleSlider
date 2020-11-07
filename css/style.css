@@ -1,0 +1,21 @@
+body{
+	background-color: azure;
+}
+
+h1{
+	text-align: center;
+}
+
+.slider-inner{
+	width:100%;
+	border: 5px solid gray;
+}
+
+.active{
+	display:inline-block;
+}
+
+img{
+	display:none;
+	width:100%;
+}
